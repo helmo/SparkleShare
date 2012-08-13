@@ -80,7 +80,6 @@ namespace SparkleLib {
             "~*.ppt", "~*.PPT", "~*.pptx", "~*.PPTX",
             "~*.xls", "~*.XLS", "~*.xlsx", "~*.XLSX",
             "~*.doc", "~*.DOC", "~*.docx", "~*.DOCX",
-            ".~lock.*#", // Libre Office
             "*/CVS/*", ".cvsignore", "*/.cvsignore", // CVS
             "/.svn/*", "*/.svn/*", // Subversion
             "/.hg/*", "*/.hg/*", "*/.hgignore", // Mercurial
